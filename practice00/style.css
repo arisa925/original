@@ -1,0 +1,65 @@
+html {
+    text-align: center;
+}
+.menu p {
+    display: inline-block;
+    font-family: "Hiragino Kakugo ProN", sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 60px 0;
+    margin: 30px;
+}
+
+h1 {
+    font-family: "Hiragino Kakugo ProN", sans-serif;
+    font-size: 44px;
+
+}
+img {
+    margin: 30px;
+}
+
+div p {
+    font-size: 16px;
+    font-family: "Hiragino Kakugo ProN", sans-serif;
+}
+
+#box {
+    width: 300px;
+    height: 81px;
+    background-color: #2d52a5;
+    display: inline-block;
+    margin: 30px;
+    
+}
+.box-1 {
+    text-align: center;
+    font-family: "Hiragino Kakugo ProN", sans-serif;
+    font-size: 18px;
+    color: #fff;
+}
+
+.footer {
+    display: inline-block;
+    background-color: #2d52a5;
+    width: 1200px;
+    height: 300px;
+}
+
+.footer p {
+    display: inline-block;
+    font-family: "Hiragino Kakugo ProN", sans-serif;
+    font-size: 18px;
+    color: #fff;
+    padding: 20px 0;
+    margin: 30px;
+}
+
+.footer p:nth-child(6) {
+    font-family: "Hiragino Kakugo ProN", sans-serif;
+    font-size: 14px; 
+}
+.footer p:nth-child(7) {
+    font-family: "Hiragino Kakugo ProN", sans-serif;
+    font-size: 12px; 
+}
