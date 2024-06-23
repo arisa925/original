@@ -1,0 +1,36 @@
+body {
+    background-color: #fff;
+    max-width: 400px;
+}
+
+#main-visual > img {
+    width: 400px;
+    text-align: center;
+    
+}
+
+.main-logo {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.main-logo img {
+    width: 10px;
+    height: 10px;
+}
+
+.main-logo1 img {
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+}
+
+.main-logo2 {
+    margin-right: 40px;
+}
+
+.main-logo3 img {
+    width: 25px;
+    height: 25px;
+}
