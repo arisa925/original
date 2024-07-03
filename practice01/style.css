@@ -1,0 +1,138 @@
+header {
+    width: 1320px;
+    height: 125px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: #87ceeb;
+}
+
+#top {
+    width: 1320px;
+    background-color: #87ceeb
+    margin: 0 auto;
+    text-align: center;
+}
+
+a {
+    width: 10%;
+    height: 50px;
+    background-color: #ffffb7;
+    display: inline-block;
+    margin: 20px ;
+    text-align: center;
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+}
+
+main {
+    width: 960px;
+    text-align: center;
+    margin: auto;
+}
+
+#main-visual {
+    width: 960px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+#main-visual img {
+    width: 960px;
+    height: 600px;
+    margin-top: 20px;
+}
+
+#main-logo {
+    width: 960px;
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+}
+
+#main-logo img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+
+#main-logo h1 {
+    display: inline-block;
+    font-size: 32px;
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+    text-align: center;
+    color: #87ceeb;
+}
+
+#main-logo p {
+    text-align: left;
+    display: inline-block;
+    font-size: 14px;
+    margin: 42px auto ;
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+}
+
+#main-visual2 {
+    width: 960px;
+    text-align: center;
+}
+
+#main-visual2 h1 {
+    width: 960px;
+    font-size: 32px;
+    text-align: center;
+    color: #87ceeb;
+    margin: 101px 0 40px;
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+}
+
+
+#main-visual2 p {
+    display: block;
+    background-color: #87ceeb;
+    color: black;
+    text-align: left;
+    height: 76px;
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+}
+
+#main-visual3 {
+    width: 960px;
+    text-align: center;
+}
+
+#main-visual3 img {
+    width: 390px;
+    height: 252px;
+    display: inline-block;
+    align-items: center;
+    margin: 99px 30px 29px;
+    border: 9px solid #87ceeb;
+}
+
+#main-visual3 p {
+    font-size: 15px;
+    color: #87ceeb;
+    display: inline-block;
+    text-align: center;
+    margin: 0 200px;
+    margin-bottom: 20px;
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+}
+
+footer {
+    background-color: #87ceeb;
+    width: 1320px;
+    height: 133px;
+    font-size: 11px;
+    text-align: center;
+}
+
+footer p {
+    font-size: 11px;
+    color: #FFF;
+    display: inline-block;
+    text-align: center;
+    margin:67px auto 0;
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+}
