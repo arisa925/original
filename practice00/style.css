@@ -1,7 +1,7 @@
 html {
     text-align: center;
 }
-.menu p {
+.menu a {
     display: inline-block;
     font-family: "Hiragino Kakugo ProN", sans-serif;
     font-size: 18px;
@@ -30,10 +30,12 @@ div p {
     background-color: #2d52a5;
     display: inline-block;
     margin: 30px;
+    text-align: center;
     
 }
-.box-1 {
-    text-align: center;
+#box a {
+    display: inline-block;
+    margin: 30px;
     font-family: "Hiragino Kakugo ProN", sans-serif;
     font-size: 18px;
     color: #fff;
@@ -46,7 +48,7 @@ div p {
     height: 300px;
 }
 
-.footer p {
+.footer a {
     display: inline-block;
     font-family: "Hiragino Kakugo ProN", sans-serif;
     font-size: 18px;
@@ -55,11 +57,11 @@ div p {
     margin: 30px;
 }
 
-.footer p:nth-child(6) {
-    font-family: "Hiragino Kakugo ProN", sans-serif;
-    font-size: 14px; 
+.footer p {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block;
+    margin: 30px;
+
 }
-.footer p:nth-child(7) {
-    font-family: "Hiragino Kakugo ProN", sans-serif;
-    font-size: 12px; 
-}
+
